@@ -1,14 +1,9 @@
-מגישים:
-שם: גיא שטרנשוס תז: 318423415
-שם: ליאור קרן תז:208547992  
+Notes:
 
-הערות:
+Use of filesystem which is possible from compiler level of C++ 17 and above.
 
--הסביבה צריכה להיות c++17 על מנת לעבוד כיוון שיש שימוש ב<filesystem> שעובד רק מהגרסא הזו.
+Added colorful game, to play with colors, option 3 in Main Menu.
 
--כאשר רוצים לבחור שלב ספציפי לשחק בו בתפריט הראשי יש ללחוץ על 4, לבחור את השלב הרצוי, ולאחר
-מכן ללחוץ 1.
+To play a specific level, choose option 4 in Main Menu.
 
--כדי לסיים משחק באמצע יש ללחוץ esc ולאחר מכן ללחוץ e
-
-הוספנו שימוש בצבעים (שהיה גם בגירסה הראשונה). על מנת להפעיל צריך לבחור את אופציה 3 בתפריט וללחוץ על כל אות מלבד n.
+In order to finish the game, mid-game you will need to press esc and then e.
